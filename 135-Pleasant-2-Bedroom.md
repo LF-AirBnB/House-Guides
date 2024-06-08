@@ -122,7 +122,7 @@ Painted walls can be wiped with a damp rag. Do not use Windex or other general p
 
 ## WIFI
 
-**Garibaldi** or **Garibalid_5G** with password **good4you**
+**Blackcomb-2.4G** or **Blackcomb-5G** with password **good4you**
 
 ## TV
 
