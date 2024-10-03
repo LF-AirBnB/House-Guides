@@ -113,7 +113,7 @@ Do not bring abrasive powder cleansers, steel wool or other abrasive scrub pads 
 
 Damp wiping, sometimes with a bit of liquid detergent or a general purpose cleaner, is usually all that's needed.
 
-[Liquid Barkeeper's Friend](https://barkeepersfriend.com/products/soft-cleanser/) (shake well) and a blue scrub pad work well for cleaning the range top around the burners, cleaning steel pots and pans (but not non-stick cookware), and removing stains from the quartz countertops.
+[Liquid Barkeeper's Friend](https://barkeepersfriend.com/products/soft-cleanser/) (shake well) and a blue scrub pad work well for cleaning the range top around the burners and cleaning steel pots and pans (but not non-stick cookware).
 
 Toilets do not need heavy duty cleansers. They are a smooth surface, so they clean up nicely with the toilet brush and a bit of liquid soap, bodywash, or shampoo.
 
