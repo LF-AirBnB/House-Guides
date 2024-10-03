@@ -90,7 +90,9 @@ The apartment is heated and cooled via a [ductless air-source heat pump (a.k.a. 
 
 **IMPORTANT**: When adjusting the temperature, using the remote control, you must hear a **beep** from the unit, otherwise your adjustment is not registered (i.e. ***no beep, no change***).
 
-There is a ***mode*** button under the sliding cover of the remote control to select **heat** or **cool** mode. The system works most efficiently when the temperature setting for each room is pretty similar.
+You can switch the mode by pressing the **COOL** or **HEAT** button. The **AUTO** button is NOT recommended.
+
+**Note**: The system works most efficiently when the temperature setting for each room is set similarly. Avoid extreme temperature settings.
 
 **Note**: It's very helpful to understand that the temperature sensor is in the wall unit, and not in the remote control. This means that sometimes you may need to set the temperature a little bit beyond your desired temperature (higher for heat, lower for cooling) ***for a while*** until the entire space is at the desired temperature, as the space immediately around the unit is going to reach the temperature set on the remote control a little sooner than the rest of the space.
 
